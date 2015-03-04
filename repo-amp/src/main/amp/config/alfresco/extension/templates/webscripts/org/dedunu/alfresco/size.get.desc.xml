@@ -1,0 +1,8 @@
+<webscript>
+   <shortname>File Size</shortname>
+   <description>Returns the file size of the given nodeRef</description>
+   <url>/size?nodeRef={RefForNode}</url>
+   <authentication>user</authentication>
+   <format default="html">extension</format>
+   <family>File Size Utilities</family>
+</webscript>
